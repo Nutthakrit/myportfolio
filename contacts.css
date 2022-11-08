@@ -1,0 +1,358 @@
+/* screen - contacts */
+
+.contacts {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 771px;
+  overflow: hidden;
+  width: 1366px;
+}
+
+.contacts .overlap-group1 {
+  align-self: center;
+  height: 140px;
+  position: relative;
+  width: 1024px;
+}
+
+.contacts .header {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border: 1px none;
+  display: flex;
+  gap: 555px;
+  height: 120px;
+  justify-content: space-around;
+  left: 0;
+  padding: 32px 0px 8px;
+  position: absolute;
+  top: 0;
+  width: 1024px;
+}
+
+.contacts .frame-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 32px;
+  height: 70px;
+  width: 727px;
+}
+
+.contacts .header-link {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  width: fit-content;
+}
+
+.contacts .text-19 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.contacts .place {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.contacts .header-link-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  width: fit-content;
+}
+
+.contacts .text-20 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.contacts .home {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.contacts .header-link-2 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  width: fit-content;
+}
+
+.contacts .text-21 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.contacts .home-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.contacts .header-link-3 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  width: fit-content;
+}
+
+.contacts .text-22 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.contacts .home-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.contacts .place-1 {
+  cursor: pointer;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+  width: 91px;
+}
+
+.contacts .title {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  margin-left: 181px;
+  margin-top: 27px;
+  min-width: 174px;
+}
+
+.contacts .frame-47 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  width: fit-content;
+}
+
+.contacts .text-18 {
+  color: var(--lavender);
+  font-family: var(--font-family-fira_code);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.contacts .contacts-1 {
+  color: var(--burning-orange);
+  font-family: var(--font-family-fira_code);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.contacts .overlap-group {
+  height: 1261px;
+  margin-left: -77px;
+  margin-top: 23px;
+  position: relative;
+  width: 1530px;
+}
+
+.contacts .background {
+  align-items: center;
+  display: flex;
+  gap: 1208px;
+  height: 1237px;
+  left: 0;
+  min-width: 1530px;
+  position: absolute;
+  top: 24px;
+}
+
+.contacts .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 771px;
+  margin-top: 28.0px;
+  min-height: 975px;
+  width: 155px;
+}
+
+.contacts .frame-28 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 49px;
+  justify-content: space-between;
+  width: 109px;
+}
+
+.contacts .frame-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.contacts .ellipse {
+  background-color: var(--cadet-blue);
+  border: 1px none;
+  border-radius: 2px;
+  height: 4px;
+  min-width: 4px;
+}
+
+.contacts .rectangle-25 {
+  border: 1px solid;
+  border-color: var(--cadet-blue);
+  height: 155px;
+  width: 155px;
+}
+
+.contacts .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 1237px;
+  width: 167px;
+}
+
+.contacts .rectangle-25-1 {
+  align-self: flex-end;
+  border: 1px solid;
+  border-color: var(--cadet-blue);
+  height: 155px;
+  width: 155px;
+}
+
+.contacts .frame-36 {
+  align-items: flex-start;
+  align-self: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 103px;
+  justify-content: space-between;
+  margin-right: 10.0px;
+  margin-top: 356px;
+  width: 103px;
+}
+
+.contacts .frame-31 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 103px;
+  justify-content: space-between;
+  margin-top: 520px;
+  width: 103px;
+}
+
+.contacts .image-5 {
+  height: 63px;
+  left: 796px;
+  object-fit: cover;
+  position: absolute;
+  top: 219px;
+  width: 326px;
+}
+
+.contacts .image-6 {
+  height: 63px;
+  left: 796px;
+  object-fit: cover;
+  position: absolute;
+  top: 142px;
+  width: 245px;
+}
+
+.contacts .image-7 {
+  height: 63px;
+  left: 796px;
+  object-fit: cover;
+  position: absolute;
+  top: 68px;
+  width: 227px;
+}
+
+.contacts .image-8 {
+  height: 63px;
+  left: 796px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 492px;
+}
+
+.contacts .icon-mail {
+  height: 58px;
+  left: 736px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 58px;
+}
+
+.contacts .image-10 {
+  height: 56px;
+  left: 739px;
+  object-fit: cover;
+  position: absolute;
+  top: 68px;
+  width: 56px;
+}
+
+.contacts .image-11 {
+  height: 71px;
+  left: 731px;
+  object-fit: cover;
+  position: absolute;
+  top: 131px;
+  width: 71px;
+}
+
+.contacts .image-12 {
+  height: 52px;
+  left: 741px;
+  object-fit: cover;
+  position: absolute;
+  top: 209px;
+  width: 52px;
+}
+
+.contacts .image-13 {
+  height: 419px;
+  left: 258px;
+  object-fit: cover;
+  position: absolute;
+  top: 120px;
+  width: 426px;
+}

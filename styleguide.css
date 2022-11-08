@@ -1,0 +1,115 @@
+:root { 
+  --alto: #d9d9d9;
+  --black: #000000;
+  --black-2: #020202;
+  --burning-orange: #f36e31;
+  --cadet-blue: #abb2bf;
+  --charade: #282c33;
+  --lavender: #c778dd;
+  --white: #ffffff;
+ 
+  --font-size-l: 22px;
+  --font-size-m: 20px;
+  --font-size-s: 16px;
+  --font-size-xl: 24px;
+  --font-size-xxl: 32px;
+  --font-size-xxxl: 36px;
+  --font-size-xxxxl: 64px;
+ 
+  --font-family-fira_code: "Fira Code", Helvetica;
+}
+.firacode-medium-charade-24px {
+  color: var(--charade);
+  font-family: var(--font-family-fira_code);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.firacode-normal-lavender-32px {
+  color: var(--lavender);
+  font-family: var(--font-family-fira_code);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.firacode-medium-burning-orange-32px {
+  color: var(--burning-orange);
+  font-family: var(--font-family-fira_code);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.firacode-medium-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-fira_code);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.firacode-normal-black-20px {
+  color: var(--black-2);
+  font-family: var(--font-family-fira_code);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.firacode-normal-burning-orange-20px {
+  color: var(--burning-orange);
+  font-family: var(--font-family-fira_code);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.firacode-normal-burning-orange-32px {
+  color: var(--burning-orange);
+  font-family: var(--font-family-fira_code);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.firacode-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-fira_code);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.firacode-medium-charade-32px {
+  color: var(--charade);
+  font-family: var(--font-family-fira_code);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.firacode-medium-burning-orange-64px {
+  color: var(--burning-orange);
+  font-family: var(--font-family-fira_code);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.firacode-medium-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-fira_code);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.firacode-medium-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-fira_code);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
